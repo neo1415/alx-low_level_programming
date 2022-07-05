@@ -2,7 +2,7 @@
 
 /**
 *_isalpha - Check Description
-*@c : input 
+*@c : input
 *Description: function that checks for alphabetic character
 *Return: 1 if c is a letter, lowercase or uppercase or 0 in otherwise.
 */
