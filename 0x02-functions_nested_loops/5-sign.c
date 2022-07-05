@@ -4,7 +4,8 @@
 * print_sign - Check Description
 * @n:input
 * Description: function that prints the sign of a numbe
-* Return: 1 if number is positive, o if number is 0, or -1 if number is negative
+* Return: 1 if number is positive, o if number is 0,
+* or -1 if number is negative
 */
 int print_sign(int n)
 {
