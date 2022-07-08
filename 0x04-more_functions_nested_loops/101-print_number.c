@@ -1,13 +1,13 @@
 #include "main.h"
 
+void print_integer(int m);
+
 /**
 * print_number - check description
 * Description : a function that prints an integer.
 * @n: input and unsigned input
 * Return: Nothing
 */
-
-void print_integer(int m);
 
 void print_number(int n)
 {
