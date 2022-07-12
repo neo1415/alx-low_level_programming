@@ -13,5 +13,5 @@ char *aux = dest;
 
 while (*src)
 *dest++ = *src++;
-return (0);
+return (aux);
 }
